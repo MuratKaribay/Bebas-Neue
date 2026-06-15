@@ -14,6 +14,12 @@ To contribute to the project, Please contact to Dharma Type at https://github.co
 
 ChangeLog
 
+15 Jun 2026 (Murat Karibay) Bebas Neue v3.000
+- Add Cyrillic glyphs
+- Add some Latin glyphs
+- Add some currency symbols
+- Add Kerning for Cyrillic
+
 6 Mar 2018 (Ryoichi Tsunekawa) Bebas Neue v2.000
 - Open sourced.
 - Fine tuned to almost all glyphs.
